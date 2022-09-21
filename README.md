@@ -7,7 +7,7 @@
 
 - 💬 Chat to me about **coding, football or 3D printing!**
 
-- 📫 How to reach me **sakusanpuwan98@gmail.com**
+- 📫 Reach me at **sakusanpuwan98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
