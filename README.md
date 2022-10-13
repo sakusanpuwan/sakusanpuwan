@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sakusan</h1>
+<h1 align="center">Hi 👋 , I'm Sakusan!</h1>
 <h3 align="center">Mechanical Engineering Graduate and Aspiring Software Engineer</h3>
 
 - 🔭 I’m currently training in full stack web development at **BNTA**
 
-- 🌱 I’m currently learning **Java, JavaScript and API development**
+- 🌱 I’m currently learning **Java, JavaScript,API and React app development**
 
 - 💬 Chat to me about **coding, football or 3D printing!**
 
