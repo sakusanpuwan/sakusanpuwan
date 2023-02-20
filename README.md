@@ -3,7 +3,7 @@
 
 - 🔭 I’ve successfully completed training in full stack web development at **BNTA** and now looking to secure a role in tech!
 
-- 🌱 I’m currently learning **Java, JavaScript,API and React app development**
+- 🌱 I’m currently learning **Java, JavaScript, APIs and React app development**
 
 - 💬 Chat to me about **coding, football or 3D printing!**
 
