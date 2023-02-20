@@ -1,5 +1,5 @@
 <h1 align="center">Hey,  I'm Sakusan!</h1>
-<h3 align="center">Mechanical Engineering Graduate and Aspiring Software Engineer</h3>
+<h3 align="center">A Mechanical Engineering Graduate and Aspiring Software Engineer</h3>
 
 - 🔭 I’ve successfully completed training in full stack web development at **BNTA** and now looking to secure a role in tech!
 
