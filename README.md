@@ -1,7 +1,7 @@
 <h1 align="center">Hey,  I'm Sakusan!</h1>
 <h3 align="center">I'm A Mechanical Engineering Graduate and Aspiring Full-Stack Software Engineer</h3>
 
-- 🔭 I’ve successfully completed training in full stack development at the **Bright Network Tech Academy** and joined as a **Software Engineering Associate** at **Lloyds Banking Group!
+- 🔭 I’ve successfully completed training in full stack development at the **Bright Network Tech Academy** and joined as a **Software Engineering Associate** at **Lloyds Banking Group**!
 
 - 🌱 I’m currently learning **Java, JavaScript, APIs and React app development**
 
