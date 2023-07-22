@@ -3,7 +3,7 @@
 
 - 🔭 I’ve successfully completed training in full stack development at the **Bright Network Tech Academy** and joined as a **Software Engineering Associate** at **Lloyds Banking Group**!
 
-- 🌱 I’m currently learning **Java, JavaScript, APIs and React app development**
+- 🌱 I’m currently learning **Java, JavaScript, APIs, and React app development**
 
 - 💬 Chat to me about **coding, football or 3D printing!**
 
@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
 </p>
 
 <h3 align="left">Tools</h3>
@@ -45,6 +47,10 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+
+
 </p>
 
 
