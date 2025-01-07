@@ -1,14 +1,4 @@
-<h1 align="center">Hey,  I'm Sakusan!</h1>
-<h3 align="center">I'm A Mechanical Engineering Graduate and Full-Stack Software Engineer</h3>
-
-- 🔭 I’ve successfully completed training in full stack development at the **Bright Network Tech Academy** and joined as a **Software Engineering Associate** at **Lloyds Banking Group**!
-
-- 🌱 I’m currently learning **Java, JavaScript, APIs, and React app development**
-
-- 💬 Chat to me about **coding, football or 3D printing!**
-
-- 📫 Reach me at **sakusanpuwan98@gmail.com**
-
+<h1>Hi, I'm Sakusan!👋</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakusan-puwanendran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakusan-puwanendran" height="30" width="40" /></a>
